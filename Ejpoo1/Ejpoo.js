@@ -9,3 +9,4 @@ var persona2 = new Persona("Sebastian");
 // Muestra el primer nombre de persona1
 alert ('persona1 es ' + persona1.primerNombre); // muestra "persona1 es Alicia"
 alert ('persona2 es ' + persona2.primerNombre);
+alert ('persona2 es ' + persona2.primerNombre+ 'PRUEBA ADICONAL DEL MENSAJE');
